@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - [Project 3](#) - Description of project 3
 
 ## 📈 GitHub Stats
-![SKJ00's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SKJ00&show_icons=true&theme=radical)
+![SKJ00's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devskj&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skj00)
