@@ -1,4 +1,4 @@
-# Hello, I'm SKJ00! 👋
+# Hello, I'm Shahajun ! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a little bit about me:
 
@@ -22,7 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📫 How to reach me
 - **Email**: shahajunkhanjoy@gmail.com
 - **LinkedIn**: [SKJ00](https://www.linkedin.com/in/skj00)
-- **Twitter**: [@SKJ00](https://twitter.com/SKJ00)
+- - **Youtube**: [@shahajunkhanjoy](https://Youtube.com/shahajunkhanjoy)
+
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
