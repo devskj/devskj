@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 📫 How to reach me
 - **Email**: shahajunkhanjoy@gmail.com
-- **LinkedIn**: [SKJ00](https://www.linkedin.com/in/skj00)
-- - **Youtube**: [@shahajunkhanjoy](https://Youtube.com/shahajunkhanjoy)
+- **LinkedIn**: [Shahajun Khan Joy](https://www.linkedin.com/in/shahajun-khan-joy)
+- - **Youtube**: [@shahajunkhanjoy](https://www.youtube.com/@shahajunkhanjoy)
 
 
 ## 📝 Latest Blog Posts
